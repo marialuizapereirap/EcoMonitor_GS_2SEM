@@ -1,0 +1,43 @@
+========================================
+       RELATORIO ECOMONITOR
+========================================
+
+Ambiente monitorado: Praça urbana hipotética
+Quantidade de leituras: 2
+
+LIMITES UTILIZADOS
+Temperatura: entre 18 e 30 °C
+PM2.5: ate 50 µg/m³ (media simulada de 24 horas)
+Ruido: ate 65 dB (periodo diurno)
+
+ESTATÍSTICAS - TEMPERATURA
+Média: 26.00 °C
+Maior valor: 32.00 °C
+Menor valor: 20.00 °C
+
+ESTATÍSTICAS - PM2.5
+Média: 55.00 µg/m³
+Maior valor: 60.00 µg/m³
+Menor valor: 50.00 µg/m³
+
+ESTATÍSTICAS - RUIDO
+Média aritmética: 72.50 dB
+Maior valor: 80.00 dB
+Menor valor: 65.00 dB
+
+OCORRÊNCIAS POR PARAMETRO
+Temperatura fora do limite: 1
+PM2.5 acima do limite: 1
+Ruido acima do limite: 1
+
+RESULTADO GERAL
+Leituras com pelo menos uma ocorrencia: 1
+Percentual de leituras criticas: 50.00%
+Estado geral: condições ambientais de atenção, com frequência de ocorrências acima do critério estabelecido
+
+OBSERVACOES
+Este relatorio foi gerado a partir de uma simulacao academica.
+Os valores nao representam medicoes ambientais reais.
+O valor de PM2.5 representa uma media simulada de 24 horas.
+A media aritmetica do ruido e uma estatistica descritiva simplificada.
+Ela nao representa o LAeq nem uma avaliacao de exposicao sonora.

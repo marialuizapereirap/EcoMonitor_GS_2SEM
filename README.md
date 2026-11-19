@@ -1,5 +1,3 @@
-# EcoMonitor_GS_2SEM
-Sistema de monitoramento ambiental desenvolvido em Python para a Global Solution - FIAP 2026. 
 # EcoMonitor — Central de Monitoramento Ambiental
 
 **Disciplina:** Computational Thinking for Engineering  
@@ -31,7 +29,7 @@ As fontes, justificativas e limitações dos critérios estão detalhadas no arq
 1. Abra o terminal na pasta do projeto.
 2. Execute o comando:
 
-  py ecomonitor.py
+py ecomonitor.py
 
 O programa solicita a quantidade de leituras, recebe os três parâmetros, apresenta os resultados e gera um relatório TXT. Ao final, permite iniciar uma nova sequência de monitoramento.
 
@@ -49,9 +47,7 @@ O vídeo apresenta o funcionamento do EcoMonitor, incluindo a execução do prog
 - `relatorio_exemplo.txt` — exemplo de relatório gerado pelo programa.
 
 ## Observação
-O EcoMonitor utiliza valores informados pelo usuário para fins de simulação acadêmica. Os resultados não representam medições ambientais reais, laudo técnico ou avaliação ambiental oficial.
 
-A média aritmética do ruído é apenas uma estatística descritiva simplificada e não corresponde ao LAeq,T.
 O EcoMonitor utiliza valores informados pelo usuário para fins de simulação acadêmica. Os resultados não representam medições ambientais reais, laudo técnico ou avaliação ambiental oficial.
 
 A média aritmética do ruído é apenas uma estatística descritiva simplificada e não corresponde ao LAeq,T.
