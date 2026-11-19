@@ -31,7 +31,7 @@ As fontes, justificativas e limitações dos critérios estão detalhadas no arq
 1. Abra o terminal na pasta do projeto.
 2. Execute o comando:
 
-py ecomonitor.py
+  py ecomonitor.py
 
 O programa solicita a quantidade de leituras, recebe os três parâmetros, apresenta os resultados e gera um relatório TXT. Ao final, permite iniciar uma nova sequência de monitoramento.
 
